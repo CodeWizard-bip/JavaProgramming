@@ -7,7 +7,7 @@ public class Nespresso {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // Creamos una cafetera con capacidad máxima de 2000
+        // Creamos una cafetera con capacidad máxima de 2000 ml
         Cafetera cafetera = new Cafetera(2000,0);
         
         // Creamos un servicio de cafetera
